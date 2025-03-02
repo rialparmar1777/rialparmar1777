@@ -1,6 +1,6 @@
 # Welcome to rialparmar1777's GitHub Profile!
 
-![Live Wallpaper](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Live Wallpaper](https://media.giphy.com/media/l0HlQ7LRal9ZzTyLe/giphy.gif)
 
 ## About Me
 
