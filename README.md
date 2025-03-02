@@ -1,4 +1,4 @@
-# Welcome to rialparmar1777's GitHub Profile!
+# Welcome to Rial's GitHub Profile!
 
 ![Live Wallpaper](https://media.giphy.com/media/l0HlQ7LRal9ZzTyLe/giphy.gif)
 
