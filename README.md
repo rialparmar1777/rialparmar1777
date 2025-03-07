@@ -1,5 +1,7 @@
 # 🖥️ Welcome to Rial's GitHub Profile  
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/123456854-aac7b700-d5f9-11eb-8c50-6a3e8b5f7f4d.gif" width="100%" alt="live background">
+</p>
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 </p>
