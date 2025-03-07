@@ -1,3 +1,6 @@
+Here is the entire content of your README file:
+
+```markdown
 # 🖥️ Welcome to Rial's GitHub Profile  
 
 ```bash
@@ -53,3 +56,4 @@ $ ping rialparmar
 🔗 LinkedIn: [Rial Parmar](https://www.linkedin.com/in/rial-p-886b38145/)
 $ exit
 🚀 Thanks for visiting! Feel free to explore my repositories or connect with me. Keep coding! 💻
+```
