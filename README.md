@@ -40,7 +40,7 @@
         <p align="center">
           A full-stack food ordering platform with real-time updates and Stripe integration
           <br><br>
-          <a href="#" target="_blank">
+          <a href="https://marketing-website-tech.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/DEMO-6F47C1?style=for-the-badge"/>
           </a>
           <a href="#" target="_blank">
