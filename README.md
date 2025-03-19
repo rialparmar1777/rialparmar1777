@@ -34,11 +34,11 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Food Ordering System</h3>
+      <h3 align="center">Modern Marketing Website</h3>
       <p align="center">
         <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" alt="food-ordering" width="100%"/>
         <p align="center">
-          A full-stack food ordering platform with real-time updates and Stripe integration
+          A sleek and responsive marketing website built with React, featuring modern UI components and smooth animations. This project showcases a professional landing page with multiple sections including hero, features, testimonials, and contact components.
           <br><br>
           <a href="https://marketing-website-tech.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/DEMO-6F47C1?style=for-the-badge"/>
@@ -56,7 +56,7 @@
         <p align="center">
           Modern and responsive portfolio showcasing my journey and achievements
           <br><br>
-          <a href="https://rialparmar1777.github.io/" target="_blank">
+          <a href="https://rial-portfolio-website.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/DEMO-6F47C1?style=for-the-badge"/>
           </a>
           <a href="#" target="_blank">
